@@ -1,0 +1,27 @@
+﻿<Window x:Class="HokejIspitJun.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HokejIspitJun"
+        mc:Ignorable="d"
+        Title="Window1" Background="Red" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Grid.Row="0">
+            <TextBlock FontSize="26" Margin="60,50,0,35" FontWeight="Bold" Text="Unesite ime prvog igraca:"/>
+            <TextBox FontSize="16" Margin="10" Height="35" Width="200" FontWeight="Bold" x:Name="txtIme1"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="1">
+            <TextBlock FontSize="26" Margin="60,50,0,35" FontWeight="Bold" Text="Unesite ime drugog igraca:"/>
+            <TextBox FontSize="16" Margin="10,52" Height="35" Width="185" FontWeight="Bold" x:Name="txtIme2"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Grid.Row="2">
+            <Button Click="Button_Click" Content="Igraj" Width="200" FontSize="26" Margin="30" FontWeight="Bold"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+C:\Users\Minela\source\repos\HokejIspitJun\HokejIspitJun\obj\Debug\HokejIspitJun.csprojAssemblyReference.cache
+C:\Users\Minela\source\repos\HokejIspitJun\HokejIspitJun\obj\Debug\IgrajHokej.g.cs
+C:\Users\Minela\source\repos\HokejIspitJun\HokejIspitJun\obj\Debug\App.g.cs
+C:\Users\Minela\source\repos\HokejIspitJun\HokejIspitJun\obj\Debug\HokejIspitJun_MarkupCompile.cache
+C:\Users\Minela\source\repos\HokejIspitJun\HokejIspitJun\obj\Debug\HokejIspitJun_MarkupCompile.lref
+C:\Users\Minela\source\repos\HokejIspitJun\HokejIspitJun\bin\Debug\HokejIspitJun.exe.config
+C:\Users\Minela\source\repos\HokejIspitJun\HokejIspitJun\bin\Debug\HokejIspitJun.exe
+C:\Users\Minela\source\repos\HokejIspitJun\HokejIspitJun\bin\Debug\HokejIspitJun.pdb
+C:\Users\Minela\source\repos\HokejIspitJun\HokejIspitJun\obj\Debug\IgrajHokej.baml
+C:\Users\Minela\source\repos\HokejIspitJun\HokejIspitJun\obj\Debug\HokejIspitJun.g.resources
+C:\Users\Minela\source\repos\HokejIspitJun\HokejIspitJun\obj\Debug\HokejIspitJun.Properties.Resources.resources
+C:\Users\Minela\source\repos\HokejIspitJun\HokejIspitJun\obj\Debug\HokejIspitJun.csproj.GenerateResource.cache
+C:\Users\Minela\source\repos\HokejIspitJun\HokejIspitJun\obj\Debug\HokejIspitJun.csproj.CoreCompileInputs.cache
+C:\Users\Minela\source\repos\HokejIspitJun\HokejIspitJun\obj\Debug\HokejIspitJun.exe
+C:\Users\Minela\source\repos\HokejIspitJun\HokejIspitJun\obj\Debug\HokejIspitJun.pdb
+C:\Users\Minela\source\repos\HokejIspitJun\HokejIspitJun\obj\Debug\Window1.g.cs
+C:\Users\Minela\source\repos\HokejIspitJun\HokejIspitJun\obj\Debug\Window1.baml

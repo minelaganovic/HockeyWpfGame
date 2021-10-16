@@ -1,0 +1,21 @@
+﻿<Window x:Class="HokejIspitJun.IgrajHokej"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HokejIspitJun"
+        mc:Ignorable="d" Background="Green"
+        Title="IgrajHokej" KeyDown="Window_KeyDown" Height="550" Width="800">
+    <Canvas>
+        <Label Canvas.Left="150" x:Name="txtime1" FontSize="17" FontWeight="Bold" Canvas.Top="40" Content="Imepvvog"/>
+        <Label Canvas.Left="370" x:Name="txtime2" FontSize="17" FontWeight="Bold" Canvas.Top="40" Content="Imedrugog"/>
+        <Canvas x:Name="MyCanvas" Canvas.Top="100" Width="795" Height="350" Background="AliceBlue" Canvas.Bottom="40" >
+            <Rectangle Width="30" x:Name="igrac1"  Tag="igrac1" Canvas.Left="20" Canvas.Top="240" Fill="Black" Height="100"/>
+            <Ellipse Fill="Red" x:Name="pak" Tag="pak" Width="30" Height="30" Canvas.Left="70" Canvas.Top="260"/>
+            <Rectangle Width="30" x:Name="igrac2" Tag="igrac2" Canvas.Left="740" Canvas.Top="90" Fill="Black" Height="100"/>
+        </Canvas>
+        <Button Width="100" Click="Button_Click" Height="30" FontWeight="Bold" Canvas.Left="240" Content="Kreni" Canvas.Top="470"/>
+        <Button Width="100" Click="Button_Click_1" Height="30" FontWeight="Bold" Canvas.Left="350" Content="Stani" Canvas.Top="470"/>
+        <Button Width="100" Click="Button_Click_2" Height="30" FontWeight="Bold" Canvas.Left="470" Content="Ponisti" Canvas.Top="470"/>
+    </Canvas>
+</Window>
